@@ -51,3 +51,18 @@ Cloud9 has now deployed the API. To get the API resource ID, Navigate to the API
 ## **Step3 (Test and invoke the model):**
 
 We will be using **Postman** tool to send get requests to the API. There&#39;s a shortcut of the tool on the desktop. Open the tool, place the API link you copied above in the box at the top. Click on &quot;params&quot;. The &quot;key&quot; should be &quot;url&quot; and the value will be the link to the images you would like to predict. Make sure that the output in the Body section is &quot;html&quot;  ( Body Tab - > raw radio button -> HTML(text/html)) and the mode is &quot;Preview&quot;.
+
+I've collected some random flower pictures from google that you can try to predict their names:
+http://www.flowermeaning.com/flower-pics/Azalea-Meaning.jpg
+
+http://www.rosecottageplants.co.uk/images/products/large/763.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Eustoma_grandiflorum_purple_02.jpg/220px-Eustoma_grandiflorum_purple_02.jpg
+
+https://i.pinimg.com/originals/c2/e9/7a/c2e97af381db0d66ed13e60e6d56fc5c.jpg
+
+http://fallingwatergardens.com/plants/wp-content/uploads/Cautleya-spicata-var-robusta.jpg
+
+https://i.pinimg.com/originals/44/e6/89/44e6892ebf21cd4fa49cc4759f4cf48a.png
+
+https://www.almanac.com/sites/default/files/styles/primary_image_in_article/public/image_nodes/sunflower-1627193_1920.jpg
